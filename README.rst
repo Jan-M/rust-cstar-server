@@ -3,6 +3,10 @@ Goal
 
 Build a Rust implementation of the Cassandra Server API to be able to speak to the CQL native v5 protocol.
 
+We have learned in the past that e.g. the existing Java MongoDB API implementation can be quite helpful for migrations and custom tooling.
+
+Similar believe exists that an empty implementation of the API/Protocal can be useful.
+
 Reasoning
 =========
 
