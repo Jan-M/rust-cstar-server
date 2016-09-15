@@ -31,3 +31,9 @@ https://github.com/scylladb/scylla/blob/master/transport/server.cc
 
 Scala+Akka
 https://github.com/scassandra/scassandra-server
+
+Clients
+=======
+
+Pure Rust
+https://github.com/iterion/cql-rust
